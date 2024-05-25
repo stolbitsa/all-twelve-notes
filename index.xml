@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>all-twelve-notes</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="stolbitsa" repo="tonic"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="stolbitsa" repo="du-hast"/>
   <readme>
-    <en>1b54e6c6c0f38fc167f26fb4dcd688ca381aa24d061462571d79afad7a59445e</en>
     <ru>21dfc60a24693d7d3a9931bbf6d7027e548b38adabdc4f8473841342bb3ed4e0</ru>
+    <en>1b54e6c6c0f38fc167f26fb4dcd688ca381aa24d061462571d79afad7a59445e</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -87,6 +87,16 @@
       <note number="10" values="6" ticks="864" durationTicks="288" ppq="96" velocity="0.913"/>
       <note number="11" values="19" ticks="960" durationTicks="192" ppq="96" velocity="0.913"/>
       <note number="12" values="49" ticks="1056" durationTicks="95" ppq="96" velocity="0.913"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <notes>
+      <note number="1" values="1" ticks="0" durationTicks="1152" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="96" durationTicks="1056" ppq="96" velocity="0.842"/>
     </notes>
   </exercise>
 </level>
