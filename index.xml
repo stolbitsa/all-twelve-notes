@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>all-twelve-notes</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="du-hast"/>
   <readme>
     <ru>21dfc60a24693d7d3a9931bbf6d7027e548b38adabdc4f8473841342bb3ed4e0</ru>
@@ -14,7 +14,7 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="neon-girl.mp4" size="1695796" type="video/mp4" volume="0.015">5d8f879efaca19fbc1ee1d196782a19328d9e166d83e0c66e24dc18fa620075f</video>
+    <video name="neon-girl.mp4" size="1695796" type="video/mp4" volume="1">5d8f879efaca19fbc1ee1d196782a19328d9e166d83e0c66e24dc18fa620075f</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="1152" ppq="96" velocity="0.837"/>
       <note number="2" values="5" ticks="96" durationTicks="1056" ppq="96" velocity="0.797"/>
